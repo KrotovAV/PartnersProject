@@ -1,0 +1,15 @@
+D:\GitProject\PartnersProject\ForTestProject\BuissnesLayer\bin\Debug\net7.0\BuissnesLayer.deps.json
+D:\GitProject\PartnersProject\ForTestProject\BuissnesLayer\bin\Debug\net7.0\BuissnesLayer.dll
+D:\GitProject\PartnersProject\ForTestProject\BuissnesLayer\bin\Debug\net7.0\BuissnesLayer.pdb
+D:\GitProject\PartnersProject\ForTestProject\BuissnesLayer\bin\Debug\net7.0\DataLayer.dll
+D:\GitProject\PartnersProject\ForTestProject\BuissnesLayer\bin\Debug\net7.0\DataLayer.pdb
+D:\GitProject\PartnersProject\ForTestProject\BuissnesLayer\obj\Debug\net7.0\BuissnesLayer.csproj.AssemblyReference.cache
+D:\GitProject\PartnersProject\ForTestProject\BuissnesLayer\obj\Debug\net7.0\BuissnesLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProject\PartnersProject\ForTestProject\BuissnesLayer\obj\Debug\net7.0\BuissnesLayer.AssemblyInfoInputs.cache
+D:\GitProject\PartnersProject\ForTestProject\BuissnesLayer\obj\Debug\net7.0\BuissnesLayer.AssemblyInfo.cs
+D:\GitProject\PartnersProject\ForTestProject\BuissnesLayer\obj\Debug\net7.0\BuissnesLayer.csproj.CoreCompileInputs.cache
+D:\GitProject\PartnersProject\ForTestProject\BuissnesLayer\obj\Debug\net7.0\BuissnesLayer.csproj.CopyComplete
+D:\GitProject\PartnersProject\ForTestProject\BuissnesLayer\obj\Debug\net7.0\BuissnesLayer.dll
+D:\GitProject\PartnersProject\ForTestProject\BuissnesLayer\obj\Debug\net7.0\refint\BuissnesLayer.dll
+D:\GitProject\PartnersProject\ForTestProject\BuissnesLayer\obj\Debug\net7.0\BuissnesLayer.pdb
+D:\GitProject\PartnersProject\ForTestProject\BuissnesLayer\obj\Debug\net7.0\ref\BuissnesLayer.dll

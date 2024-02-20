@@ -1,0 +1,194 @@
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\obj\Debug\net7.0\WebApplication03HW2.csproj.AssemblyReference.cache
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\obj\Debug\net7.0\WebApplication03HW2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\obj\Debug\net7.0\WebApplication03HW2.AssemblyInfoInputs.cache
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\obj\Debug\net7.0\WebApplication03HW2.AssemblyInfo.cs
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\obj\Debug\net7.0\WebApplication03HW2.csproj.CoreCompileInputs.cache
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\obj\Debug\net7.0\WebApplication03HW2.MvcApplicationPartsAssemblyInfo.cs
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\obj\Debug\net7.0\WebApplication03HW2.MvcApplicationPartsAssemblyInfo.cache
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\appsettings.Development.json
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\appsettings.json
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\WebApplication03HW2.exe
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\WebApplication03HW2.deps.json
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\WebApplication03HW2.runtimeconfig.json
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\WebApplication03HW2.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\WebApplication03HW2.pdb
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\Autofac.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\Autofac.Extensions.DependencyInjection.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\AutoMapper.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\BananaCakePop.Middleware.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\Castle.Core.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\EntityFramework.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\GreenDonut.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\HotChocolate.Abstractions.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\HotChocolate.AspNetCore.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\HotChocolate.Authorization.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\HotChocolate.Execution.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\HotChocolate.Execution.Abstractions.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\HotChocolate.Fetching.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\HotChocolate.Language.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\HotChocolate.Language.SyntaxTree.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\HotChocolate.Language.Utf8.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\HotChocolate.Language.Visitors.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\HotChocolate.Language.Web.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\HotChocolate.Subscriptions.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\HotChocolate.Subscriptions.InMemory.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\HotChocolate.Transport.Sockets.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\HotChocolate.Types.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\HotChocolate.Types.CursorPagination.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\HotChocolate.Types.Mutations.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\HotChocolate.Types.OffsetPagination.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\HotChocolate.Types.Scalars.Upload.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\HotChocolate.Types.Shared.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\HotChocolate.Utilities.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\HotChocolate.Utilities.DependencyInjection.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\HotChocolate.Validation.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\Humanizer.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\MySqlConnector.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\System.CodeDom.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\System.IO.Hashing.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\Yarp.ReverseProxy.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication03HW2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication03HW2.props
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication03HW2.props
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication03HW2.props
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\obj\Debug\net7.0\staticwebassets.pack.json
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\obj\Debug\net7.0\staticwebassets.build.json
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\obj\Debug\net7.0\staticwebassets.development.json
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\obj\Debug\net7.0\scopedcss\bundle\WebApplication03HW2.styles.css
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\obj\Debug\net7.0\WebApplication03HW2.csproj.CopyComplete
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\obj\Debug\net7.0\WebApplication03HW2.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\obj\Debug\net7.0\refint\WebApplication03HW2.dll
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\obj\Debug\net7.0\WebApplication03HW2.pdb
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\obj\Debug\net7.0\WebApplication03HW2.genruntimeconfig.cache
+D:\GeekBrains\My Git\WebApplicationCSharp\03_Lesson_HW2\WebApplication03S\obj\Debug\net7.0\ref\WebApplication03HW2.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\appsettings.Development.json
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\appsettings.json
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\WebApplication03HW2.exe
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\WebApplication03HW2.deps.json
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\WebApplication03HW2.runtimeconfig.json
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\WebApplication03HW2.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\WebApplication03HW2.pdb
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\Autofac.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\Autofac.Extensions.DependencyInjection.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\AutoMapper.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\BananaCakePop.Middleware.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\Castle.Core.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\EntityFramework.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\GreenDonut.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\HotChocolate.Abstractions.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\HotChocolate.AspNetCore.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\HotChocolate.Authorization.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\HotChocolate.Execution.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\HotChocolate.Execution.Abstractions.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\HotChocolate.Fetching.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\HotChocolate.Language.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\HotChocolate.Language.SyntaxTree.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\HotChocolate.Language.Utf8.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\HotChocolate.Language.Visitors.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\HotChocolate.Language.Web.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\HotChocolate.Subscriptions.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\HotChocolate.Subscriptions.InMemory.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\HotChocolate.Transport.Sockets.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\HotChocolate.Types.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\HotChocolate.Types.CursorPagination.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\HotChocolate.Types.Mutations.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\HotChocolate.Types.OffsetPagination.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\HotChocolate.Types.Scalars.Upload.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\HotChocolate.Types.Shared.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\HotChocolate.Utilities.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\HotChocolate.Utilities.DependencyInjection.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\HotChocolate.Validation.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\Humanizer.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\MySqlConnector.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\Npgsql.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\System.CodeDom.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\System.Data.SqlClient.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\System.IO.Hashing.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\Yarp.ReverseProxy.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\obj\Debug\net7.0\WebApplication03HW2.csproj.AssemblyReference.cache
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\obj\Debug\net7.0\WebApplication03HW2.GeneratedMSBuildEditorConfig.editorconfig
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\obj\Debug\net7.0\WebApplication03HW2.AssemblyInfoInputs.cache
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\obj\Debug\net7.0\WebApplication03HW2.AssemblyInfo.cs
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\obj\Debug\net7.0\WebApplication03HW2.csproj.CoreCompileInputs.cache
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\obj\Debug\net7.0\WebApplication03HW2.MvcApplicationPartsAssemblyInfo.cs
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\obj\Debug\net7.0\WebApplication03HW2.MvcApplicationPartsAssemblyInfo.cache
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication03HW2.Microsoft.AspNetCore.StaticWebAssets.props
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication03HW2.props
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication03HW2.props
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication03HW2.props
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\obj\Debug\net7.0\staticwebassets.pack.json
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\obj\Debug\net7.0\staticwebassets.build.json
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\obj\Debug\net7.0\staticwebassets.development.json
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\obj\Debug\net7.0\scopedcss\bundle\WebApplication03HW2.styles.css
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\obj\Debug\net7.0\WebApplication03HW2.csproj.CopyComplete
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\obj\Debug\net7.0\WebApplication03HW2.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\obj\Debug\net7.0\refint\WebApplication03HW2.dll
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\obj\Debug\net7.0\WebApplication03HW2.pdb
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\obj\Debug\net7.0\WebApplication03HW2.genruntimeconfig.cache
+E:\GB временный\45 Итоговая работа\MyTestPostgree\WebApplication03S\obj\Debug\net7.0\ref\WebApplication03HW2.dll

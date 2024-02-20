@@ -1,0 +1,14 @@
+D:\GitProject\PartnersProject\ForTestProject\DataLayer\bin\Debug\net7.0\DataLayer.deps.json
+D:\GitProject\PartnersProject\ForTestProject\DataLayer\bin\Debug\net7.0\DataLayer.runtimeconfig.json
+D:\GitProject\PartnersProject\ForTestProject\DataLayer\bin\Debug\net7.0\DataLayer.dll
+D:\GitProject\PartnersProject\ForTestProject\DataLayer\bin\Debug\net7.0\DataLayer.pdb
+D:\GitProject\PartnersProject\ForTestProject\DataLayer\obj\Debug\net7.0\DataLayer.csproj.AssemblyReference.cache
+D:\GitProject\PartnersProject\ForTestProject\DataLayer\obj\Debug\net7.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProject\PartnersProject\ForTestProject\DataLayer\obj\Debug\net7.0\DataLayer.AssemblyInfoInputs.cache
+D:\GitProject\PartnersProject\ForTestProject\DataLayer\obj\Debug\net7.0\DataLayer.AssemblyInfo.cs
+D:\GitProject\PartnersProject\ForTestProject\DataLayer\obj\Debug\net7.0\DataLayer.csproj.CoreCompileInputs.cache
+D:\GitProject\PartnersProject\ForTestProject\DataLayer\obj\Debug\net7.0\DataLayer.dll
+D:\GitProject\PartnersProject\ForTestProject\DataLayer\obj\Debug\net7.0\refint\DataLayer.dll
+D:\GitProject\PartnersProject\ForTestProject\DataLayer\obj\Debug\net7.0\DataLayer.pdb
+D:\GitProject\PartnersProject\ForTestProject\DataLayer\obj\Debug\net7.0\DataLayer.genruntimeconfig.cache
+D:\GitProject\PartnersProject\ForTestProject\DataLayer\obj\Debug\net7.0\ref\DataLayer.dll
